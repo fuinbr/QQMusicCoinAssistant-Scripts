@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "scriptVersion": "0.1.0",
+  "channel": "stable",
+  "minAppVersion": "0.6.0",
+  "entrypoint": "scripts/main.groovy",
+  "files": [
+    {
+      "path": "scripts/main.groovy",
+      "sha256": "PENDING"
+    }
+  ],
+  "releaseNotes": "Initial script contract and safe entrypoint scaffold."
+}
