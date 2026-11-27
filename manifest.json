@@ -7,7 +7,7 @@
   "files": [
     {
       "path": "scripts/main.groovy",
-      "sha256": "PENDING"
+      "sha256": "82cd304cc702e1087e551ae830f5eb084a32669aa50ae78cc23e08c7691c1daf"
     }
   ],
   "releaseNotes": "Initial script contract and safe entrypoint scaffold."
